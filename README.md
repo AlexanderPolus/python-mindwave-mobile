@@ -1,3 +1,5 @@
+The purpose of this project was to connect a RaspberryPi with accompanying vehicular body to a Neurosky Mindwave Mobile headset as an attempt to control the device with the user's thoughts. The python written here parses unencrypted signals from the mindwave mobile and communicates commands to the wheels.
+
 Some scripts to access the data streamed by the **Neurosky Mindwave Mobile** Headset over Bluetooth on Linux.
 
 Requirements:
